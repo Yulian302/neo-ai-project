@@ -1,0 +1,7 @@
+[submodule 'reactproject']
+    path=reactproject
+    url=https://github.com/Yulian302/NeoAiReact
+[submodule 'djangoProject']
+    path=djangoProject
+    url=https://github.com/Yulian302/NeoAiDjango
+
