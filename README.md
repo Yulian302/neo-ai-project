@@ -2,6 +2,11 @@
 
 NeoAi is an open-source web application designed to empower users in the realm of machine learning. The platform provides a seamless experience for leveraging built-in machine learning models, storing and managing personal models, and tailoring them to individual needs. Still in active development, NeoAi is committed to provide access to machine learning capabilities and fostering a collaborative community of developers, researchers, and enthusiasts.
 
+![NeoAi Platform Preview](./NeoAiPreview.png)
+
+> [!IMPORTANT]
+> This project is still under development. Any contributions are welcomed!
+
 ## Key Features:
 - Built-in Models: Access a variety of pre-trained machine learning models to jumpstart your projects.
 
