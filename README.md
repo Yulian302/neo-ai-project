@@ -11,6 +11,11 @@ NeoAi is an open-source web application designed to empower users in the realm o
 - [**NeoAi: Open-Source Machine Learning Platform**](#neoai-open-source-machine-learning-platform)
   - [Links](#links)
   - [Features](#features)
+  - [Diagrams](#diagrams)
+    - [Data layer (MySQL)](#data-layer-mysql)
+    - [Business processes design (context diagram)](#business-processes-design-context-diagram)
+    - [UI/UX workflow diagram](#uiux-workflow-diagram)
+    - [Proposed deployment diagram](#proposed-deployment-diagram)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -24,6 +29,96 @@ NeoAi is an open-source web application designed to empower users in the realm o
 - Customization: Tailor and fine-tune models to suit your specific requirements, fostering a personalized and adaptive approach to machine learning. **(to implement)**
 
 - User-Friendly Interface: Enjoy a user-friendly web application interface that simplifies complex machine learning tasks and workflows.
+
+## Diagrams
+
+### Data layer (MySQL)
+<br/>
+<div  style="text-align: center;">
+<span style="font-weight: bold;">Logic layer</span>
+</div>
+
+![Logic layer](./images/data/logic_layer.png)
+
+<br/>
+
+<div  style="text-align: center;">
+<span style="font-weight: bold;">Physical layer</span>
+</div>
+
+![Physical layer](./images/data/physical_layer.png)
+
+### Business processes design (context diagram)
+<section style="display: flex; flex-direction: column; gap: 30px;">
+
+<div>
+
+![Context diagram level 0](./images/bp/context_l0.png)
+<div style="text-align: center;">
+<span style="font-weight: bold;">Context diagram (level 0)</span>
+</div>
+</div>
+
+<div>
+
+![Context diagram level 1](./images/bp/context_l1.png)
+<div style="text-align: center;">
+<span style="font-weight: bold;">Context diagram (level 1)</span>
+</div>
+</div>
+
+<div>
+
+![Context diagram level 2.1](./images/bp/context_l2.1.png)
+<div style="text-align: center;">
+<span style="font-weight: bold;">Context diagram (level 2.1)</span>
+</div>
+</div>
+
+<div>
+
+![Context diagram level 2.2](./images/bp/context_l2.2.png)
+<div style="text-align: center;">
+<span style="font-weight: bold;">Context diagram (level 2.2)</span>
+</div>
+</div>
+
+<div>
+
+![Context diagram level 2.3](./images/bp/context_l2.3.png)
+<div style="text-align: center;">
+<span style="font-weight: bold;">Context diagram (level 2.3)</span>
+</div>
+</div>
+
+</section>
+
+### UI/UX workflow diagram
+
+<br/>
+
+![UI/UX workflow diagram](./images/uiux/workflow.png)
+
+### Proposed deployment diagram
+
+<br/>
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+<div style="text-align: center;">
+<span style="font-weight: bold;">System deployment using AWS</span>
+
+
+![System nodes deployment diagram](./images/deployment/system.png)
+</div>
+
+<div style="text-align: center;">
+<span style="font-weight: bold;">Backend deployment using AWS</span>
+
+
+![Backend deployment diagram](./images/deployment/backend.png)
+</div>
+
+</div>
 
 ## Contribution
 
