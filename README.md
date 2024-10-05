@@ -4,17 +4,28 @@ NeoAi is an open-source web application designed to empower users in the realm o
 
 ![NeoAi Platform Preview](./NeoAiPreview.png)
 
-> [!IMPORTANT]
-> This project is still under development. Any contributions are welcomed!
+<!-- > [!IMPORTANT]
+> This project is still under development. Any contributions are welcomed! -->
 
-## Key Features:
+## Links
+- [**NeoAi: Open-Source Machine Learning Platform**](#neoai-open-source-machine-learning-platform)
+  - [Links](#links)
+  - [Features](#features)
+  - [Contribution](#contribution)
+  - [License](#license)
+
+
+
+## Features
 - Built-in Models: Access a variety of pre-trained machine learning models to jumpstart your projects.
 
-- Model Storage: Seamlessly store and organize your own machine learning models directly on the platform. **(still not implemented)**
+- Model Storage: Seamlessly store and organize your own machine learning models directly on the platform. **(to implement)**
 
-- Customization: Tailor and fine-tune models to suit your specific requirements, fostering a personalized and adaptive approach to machine learning. **(still not implemented)**
+- Customization: Tailor and fine-tune models to suit your specific requirements, fostering a personalized and adaptive approach to machine learning. **(to implement)**
 
 - User-Friendly Interface: Enjoy a user-friendly web application interface that simplifies complex machine learning tasks and workflows.
+
+## Contribution
 
 How to Contribute:
 1) Fork the Repository: Start contributing by forking the NeoAi repository.
@@ -26,3 +37,7 @@ How to Contribute:
 4) Submit Pull Requests: Share your contributions by submitting pull requests. Collaborative efforts to enhance the platform are welcomed.
 
 Let's try to shape the future of machine learning together with NeoAi!
+
+
+## License
+Distributed under the MIT License. See LICENSE for more information.
