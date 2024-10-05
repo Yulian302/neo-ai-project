@@ -5,3 +5,6 @@
 [submodule "reactproject/neoai"]
 	path = reactproject/neoai
 	url = https://github.com/Yulian302/NeoAiReact
+[submodule "neo-ai-backend"]
+	path = neo-ai-backend
+	url = https://github.com/Yulian302/neo-ai-backend
